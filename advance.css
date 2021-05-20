@@ -1,0 +1,85 @@
+*/css documents/
+body
+{
+    padding: 0px;
+    margin:0px;
+    font-size:17px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head
+{
+    
+   
+    float: left;
+    min-height: 90px;
+    height: auto;
+    background-color: rgba(246, 237, 246, 0.904);
+    position: fixed; 
+    top:0;
+    width: 100%;
+}
+.head-wrapper
+{
+    width: 1170px;
+    margin: 0px auto;
+
+}
+.google-logo
+{
+    padding: 20px 0px 0px 20px;
+    margin: 0px 0px;
+    width: 150px;
+    float: left;
+}
+h1
+{
+    padding:20px 0px 60px 0px;
+    margin: 100px 0px 0px 70px;
+    float: left;
+    color: rgb(218, 11, 11);
+    font-size: 30px;
+}
+.box
+{
+    float: left;
+    min-height: 93px;
+    height: auto;
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+label
+{
+    width: 250px;
+    float: left;
+    padding: 5px 0px;
+    margin: 0px 0px 0px 50px;
+    text-align: left;
+
+}
+input
+{
+    width:550px;
+    float: left;
+    padding: 5px 0px;
+    margin: 0px 0px;
+}
+.Login-button
+{
+    padding:0px 0px;
+    margin:0px 0px;
+    
+}
+.Login-button input
+{
+    padding:9px 0px;
+    margin:10px 590px;
+    background-color:rgb(37, 108, 240);
+    color:white;
+    font-size:22px;
+    text-align:center;
+    font-weight:bold;
+    width:15%;
+    float:center;
+}
